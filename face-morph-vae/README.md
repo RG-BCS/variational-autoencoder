@@ -70,7 +70,11 @@ Training Progress report samples
 | 41    | 107.0059   | 107.4871        | 50.0000   | 3.119      |
 | 50    | 108.6323   | 109.1831        | 50.0000   | 2.580      |
 
+---
 
+![Training Results](train.png)
+
+---
 Below we show images generated 
 
 ### During training we used the following two images were used to monitor face-morphing
@@ -95,7 +99,7 @@ Below we show images generated
 
 ---
 
-###Interpolation of Above Shown Original Images
+### Interpolation of Above Shown Original Images
 
 ![Reconstruct Interpolation](reconstruct_interpolate.png)
 
