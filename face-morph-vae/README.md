@@ -77,7 +77,7 @@ Training Progress report samples
 ---
 Below we show images generated 
 
-### During training we used the following two images were used to monitor face-morphing
+### During training we used the following two images to monitor face-morphing
 
 ---
 ![Input images](input_images.png)
