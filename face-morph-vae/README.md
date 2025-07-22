@@ -73,7 +73,7 @@ Training Progress report samples
 
 Below we show images generated 
 
-### During training we used the following two images to monitor face-morphing
+### During training we used the following two images were used to monitor face-morphing
 
 ---
 ![Input images](input_images.png)
@@ -85,18 +85,17 @@ Below we show images generated
 ![Epoch 46](interpolation_epoch_46.png)
 
 ![Epoch 50](interpolation_epoch_50.png)
-
 ---
 
 ### After training The Model: Image Reconstruction Capability is shown below
 
 ---
 
-![Reconstruct Images] (reconstruct.png)
+![Reconstruct Images](reconstruct.png)
 
 ---
 
-### Interpolation of Above Shown Original Images
+###Interpolation of Above Shown Original Images
 
 ![Reconstruct Interpolation](reconstruct_interpolate.png)
 
@@ -111,6 +110,13 @@ Below we show images generated
 
 ---
 
+### Generate Images From Noise
+
+---
+
+![Noise](reconstruct_from_noise.png)
+
+---
 
 ## Conclusion
 
